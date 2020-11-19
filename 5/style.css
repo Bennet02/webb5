@@ -1,0 +1,32 @@
+body {
+  background-color: #99FF99;
+}
+
+p {
+  font-family: Verdana, Arial, san-serf;
+}
+
+h1, h2 {
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+article {
+  float: left;
+  width: 500px;
+  margin: 50px;
+}
+
+footer {
+  clear: both;
+  font-family: Verdana, Arial, san-serf;
+  text-align: center;
+}
+
+a:link {
+  text-decoration: none;
+  color: #639A00;
+}
+
+a:hover {
+  text-decoration: underline;
+}
